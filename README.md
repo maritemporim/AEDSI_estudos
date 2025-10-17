@@ -1,1 +1,1 @@
-# atividades-AEDSI
+🧠 Conjunto de atividades e exercícios realizados durante a disciplina de Algoritmos e Estruturas de Dados I.
